@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Navigators",
-    "slug": "Navigators",
+    "name": "DrawerNavigator",
+    "slug": "DrawerNavigator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
